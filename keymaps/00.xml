@@ -60,6 +60,7 @@
   <action id="GotoRow" />
   <action id="GuiDesigner.Duplicate" />
   <action id="NextTab" />
+  <action id="Popup.PopupChoiceAction" />
   <action id="PreviousTab" />
   <action id="QuickImplementations" />
   <action id="RemoteHostView.CopyPaths" />
