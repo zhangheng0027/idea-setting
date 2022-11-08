@@ -10,6 +10,9 @@
     <mouse-shortcut keystroke="button4" />
     <keyboard-shortcut first-keystroke="alt left" />
   </action>
+  <action id="ByteCodeEditor">
+    <keyboard-shortcut first-keystroke="ctrl e" second-keystroke="ctrl b" />
+  </action>
   <action id="ChangesView.ToggleCommitUi" />
   <action id="CheckinProject" />
   <action id="CloseContent">
@@ -44,6 +47,9 @@
     <keyboard-shortcut first-keystroke="f3" />
     <keyboard-shortcut first-keystroke="ctrl k" />
   </action>
+  <action id="FindPrevious">
+    <keyboard-shortcut first-keystroke="shift ctrl k" />
+  </action>
   <action id="FindUsages">
     <keyboard-shortcut first-keystroke="alt f7" />
     <keyboard-shortcut first-keystroke="ctrl g" />
@@ -54,6 +60,10 @@
     <keyboard-shortcut first-keystroke="alt right" />
   </action>
   <action id="Git.Commit.Stage" />
+  <action id="GotoDeclaration">
+    <mouse-shortcut keystroke="control button1" />
+    <mouse-shortcut keystroke="button2" />
+  </action>
   <action id="GotoLine">
     <keyboard-shortcut first-keystroke="ctrl l" />
   </action>
@@ -63,6 +73,7 @@
   <action id="Popup.PopupChoiceAction" />
   <action id="PreviousTab" />
   <action id="QuickImplementations" />
+  <action id="RecentFiles" />
   <action id="RemoteHostView.CopyPaths" />
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="shift f6" />
@@ -73,12 +84,16 @@
   <action id="RunDashboard.CopyConfiguration" />
   <action id="SendEOF" />
   <action id="SmartSelect" />
+  <action id="SwitcherIterateItems" />
+  <action id="SwitcherRecentEditedChangedToggleCheckBox" />
   <action id="TableResult.GrowSelection" />
   <action id="Terminal.ClearBuffer" />
   <action id="UsageFiltering.WriteAccess" />
   <action id="Vcs.Log.FocusTextFilter" />
+  <action id="Vcs.Push" />
   <action id="WelcomeScreen.CopyProjectPath" />
   <action id="XDebugger.CopyWatch" />
   <action id="openAssertEqualsDiff" />
+  <action id="org.intellij.plugins.markdown.ui.actions.styling.ToggleBoldAction" />
   <action id="org.intellij.plugins.markdown.ui.actions.styling.ToggleCodeSpanAction" />
 </keymap>
