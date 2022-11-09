@@ -96,4 +96,7 @@
   <action id="openAssertEqualsDiff" />
   <action id="org.intellij.plugins.markdown.ui.actions.styling.ToggleBoldAction" />
   <action id="org.intellij.plugins.markdown.ui.actions.styling.ToggleCodeSpanAction" />
+  <action id="showBytecodeViewer">
+    <keyboard-shortcut first-keystroke="ctrl e" second-keystroke="ctrl b" />
+  </action>
 </keymap>
