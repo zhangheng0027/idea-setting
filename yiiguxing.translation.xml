@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="generate Class" />
+      <item value="factory" />
+      <item value="seems that the loader has been expired from a weak reference somehow" />
+      <item value="define" />
       <item value="internal" />
       <item value="For internal use by {@link Enhancer} only; see the {@link org.springframework.cglib.reflect.FastMethod} class for similar functionality." />
       <item value="Called by the garbage collector on an object when garbage collection determines that there are no more references to the object." />
@@ -10,8 +14,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="4" />
-        <entry key="ENGLISH" value="5" />
+        <entry key="CHINESE" value="8" />
+        <entry key="ENGLISH" value="9" />
       </map>
     </option>
   </component>
