@@ -1,8 +1,16 @@
 <keymap version="1" name="个人习惯00" parent="$default">
+  <action id="$EditorTranslateAction">
+    <keyboard-shortcut first-keystroke="shift ctrl x" />
+  </action>
   <action id="$Redo">
     <keyboard-shortcut first-keystroke="shift ctrl z" />
     <keyboard-shortcut first-keystroke="shift alt back_space" />
     <keyboard-shortcut first-keystroke="ctrl y" />
+  </action>
+  <action id="$ShowTranslationDialogAction" />
+  <action id="$SwitchTranslatorAction" />
+  <action id="$TranslateAndReplaceAction">
+    <keyboard-shortcut first-keystroke="shift ctrl y" />
   </action>
   <action id="Android.Designer.AutoArrange" />
   <action id="Back">
@@ -103,5 +111,11 @@
   <action id="org.intellij.plugins.markdown.ui.actions.styling.ToggleCodeSpanAction" />
   <action id="showBytecodeViewer">
     <keyboard-shortcut first-keystroke="ctrl e" second-keystroke="ctrl b" />
+  </action>
+  <action id="编辑器EditorTranslateAction">
+    <keyboard-shortcut first-keystroke="shift ctrl x" />
+  </action>
+  <action id="编辑器TranslateAndReplaceAction">
+    <keyboard-shortcut first-keystroke="shift ctrl y" />
   </action>
 </keymap>
