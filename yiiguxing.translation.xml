@@ -4,6 +4,9 @@
     <option name="newTranslationDialogX" value="680" />
     <option name="newTranslationDialogY" value="330" />
     <histories>
+      <item value="the repeatable containers that may be used by the element annotations or the meta-annotations" />
+      <item value="annotations and meta-annotations from the specified element and," />
+      <item value="Meta Annotation Types" />
       <item value="Get the fully qualified class names of all meta-annotation types" />
       <item value="order" />
       <item value="specified" />
@@ -39,8 +42,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="29" />
-        <entry key="ENGLISH" value="30" />
+        <entry key="CHINESE" value="32" />
+        <entry key="ENGLISH" value="33" />
       </map>
     </option>
   </component>
