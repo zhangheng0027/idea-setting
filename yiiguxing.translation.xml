@@ -4,6 +4,11 @@
     <option name="newTranslationDialogX" value="680" />
     <option name="newTranslationDialogY" value="330" />
     <histories>
+      <item value="Get the fully qualified class names of all meta-annotation types" />
+      <item value="order" />
+      <item value="specified" />
+      <item value="provider" />
+      <item value="the order source provider to use" />
       <item value="Callers will usually perform full methodfield introspection if {@code true} is being returned here" />
       <item value="if the class is known to have no such annotations at any level" />
       <item value="annotation" />
@@ -34,8 +39,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="24" />
-        <entry key="ENGLISH" value="25" />
+        <entry key="CHINESE" value="29" />
+        <entry key="ENGLISH" value="30" />
       </map>
     </option>
   </component>
