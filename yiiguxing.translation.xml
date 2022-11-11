@@ -4,6 +4,13 @@
     <option name="newTranslationDialogX" value="680" />
     <option name="newTranslationDialogY" value="330" />
     <histories>
+      <item value="Callers will usually perform full methodfield introspection if {@code true} is being returned here" />
+      <item value="if the class is known to have no such annotations at any level" />
+      <item value="annotation" />
+      <item value="Determine whether the given class is a candidate for carrying the specified annotation (at type, method or field level). @param clazz the class to introspect @param annotationName the fully-qualified name of the searchable annotation type @return {@code false} if the class is known to have no such annotations at any level; {@code true} otherwise. Callers will usually perform full methodfield introspection if {@code true} is being returned here." />
+      <item value="has Plain Java Annotations Only" />
+      <item value="determine whether the given class is a candidate for carrying one of the specified annotations (at type, method or field level)" />
+      <item value="is Candidate Class" />
       <item value="implying that the aliased attribute is declared in the same annotation as &lt;em&gt;this&lt;em&gt; attribute." />
       <item value="The type of annotation in which the aliased {@link attribute} is declared." />
       <item value="The name of the attribute that &lt;em&gt;this&lt;em&gt; attribute is an alias for" />
@@ -27,8 +34,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="17" />
-        <entry key="ENGLISH" value="18" />
+        <entry key="CHINESE" value="24" />
+        <entry key="ENGLISH" value="25" />
       </map>
     </option>
   </component>
