@@ -4,6 +4,7 @@
     <option name="newTranslationDialogX" value="680" />
     <option name="newTranslationDialogY" value="330" />
     <histories>
+      <item value="Indicates that annotations with a type are to be documented by javadoc and similar tools by default. This type should be used to annotate the declarations of types whose annotations affect the use of annotated elements by their clients. If a type declaration is annotated with Documented, its annotations become part of the public API of the annotated elements." />
       <item value="the names of all meta-annotations present on the annotation, or an empty set if none found" />
       <item value="Get the fully qualified class names of all meta-annotation types &lt;em&gt;present&lt;em&gt; on the annotation (of the specified {@code annotationName}) on the supplied {@link AnnotatedElement}. &lt;p&gt;This method follows &lt;em&gt;get semantics&lt;em&gt; as described in the" />
       <item value="Get the fully qualified class names of all meta-annotation types &lt;em&gt;present&lt;em&gt; on the annotation (of the specified {@code annotationType}) on the supplied {@link AnnotatedElement}. &lt;p&gt;This method follows &lt;em&gt;get semantics&lt;em&gt; as described in the {@linkplain AnnotatedElementUtils class-level javadoc}. @param element the annotated element @param annotationType the annotation type on which to find meta-annotations @return the names of all meta-annotations present on the annotation, or an empty set if not found" />
@@ -45,8 +46,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="35" />
-        <entry key="ENGLISH" value="36" />
+        <entry key="CHINESE" value="36" />
+        <entry key="ENGLISH" value="37" />
       </map>
     </option>
   </component>
