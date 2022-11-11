@@ -1,6 +1,18 @@
 <application>
   <component name="AppStorage">
+    <option name="newTranslationDialogWidth" value="598" />
+    <option name="newTranslationDialogX" value="680" />
+    <option name="newTranslationDialogY" value="330" />
     <histories>
+      <item value="implying that the aliased attribute is declared in the same annotation as &lt;em&gt;this&lt;em&gt; attribute." />
+      <item value="The type of annotation in which the aliased {@link attribute} is declared." />
+      <item value="The name of the attribute that &lt;em&gt;this&lt;em&gt; attribute is an alias for" />
+      <item value="Explicit alias for attribute in meta-annotation: if the annotation attribute of @AliasFor is set to a different annotation than the one that declares it, the attribute is interpreted as an alias for an attribute in a meta-annotation (i.e., an explicit meta-annotation attribute override). This enables fine-grained control over exactly which attributes are overridden within an annotation hierarchy. In fact, with @AliasFor it is even possible to declare an alias for the value attribute of a meta-annotation." />
+      <item value="Usage Scenarios&lt;h3&gt;" />
+      <item value="that is used to" />
+      <item value="is an annotation that is used to declare aliases for annotation attributes." />
+      <item value="Abstract base class for {@link MergedAnnotation} implementations" />
+      <item value="Abstract base class for {@link MergedAnnotation} implementati" />
       <item value="Duplicate" />
       <item value="generate Class" />
       <item value="factory" />
@@ -15,8 +27,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="9" />
-        <entry key="ENGLISH" value="10" />
+        <entry key="CHINESE" value="17" />
+        <entry key="ENGLISH" value="18" />
       </map>
     </option>
   </component>
